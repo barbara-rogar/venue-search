@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5afee6d39fb6b746ff1cc379"
+  },
+  "response": {
+    "venues": [
+      {
+        "id": "4d4ec4c423a76dcb103863dc",
+        "name": "Food Lounge Berlin",
+        "location": {
+          "address": "Sankt-Wolfgang-Str. 4",
+          "lat": 52.520201491769846,
+          "lng": 13.402972769396458,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 52.520201491769846,
+              "lng": 13.402972769396458
+            }
+          ],
+          "distance": 139,
+          "postalCode": "10178",
+          "cc": "DE",
+          "city": "Berlin",
+          "state": "Berlin",
+          "country": "Deutschland",
+          "formattedAddress": [
+            "Sankt-Wolfgang-Str. 4",
+            "10178 Berlin",
+            "Deutschland"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10d941735",
+            "name": "German Restaurant",
+            "pluralName": "German Restaurants",
+            "shortName": "German",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/german_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1526654675",
+        "hasPerk": false
+      },
+      {
+        "id": "522efc6611d292a15bcfbac9",
+        "name": "nishiki - Japanese Market Food",
+        "location": {
+          "address": "Karl-Liebknecht-Straße 5",
+          "lat": 52.520238904322,
+          "lng": 13.402949281677849,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 52.520238904322,
+              "lng": 13.402949281677849
+            }
+          ],
+          "distance": 141,
+          "postalCode": "10178",
+          "cc": "DE",
+          "city": "Berlin",
+          "state": "Berlin",
+          "country": "Deutschland",
+          "formattedAddress": [
+            "Karl-Liebknecht-Straße 5",
+            "10178 Berlin",
+            "Deutschland"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d111941735",
+            "name": "Japanese Restaurant",
+            "pluralName": "Japanese Restaurants",
+            "shortName": "Japanese",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1526654675",
+        "hasPerk": false
+      },
+      {
+        "id": "5aa143780f013c6cdacb067e",
+        "name": "Korean Food",
+        "location": {
+          "lat": 52.523406,
+          "lng": 13.402449,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 52.523406,
+              "lng": 13.402449
+            }
+          ],
+          "distance": 416,
+          "cc": "DE",
+          "country": "Deutschland",
+          "formattedAddress": [
+            "Deutschland"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d113941735",
+            "name": "Korean Restaurant",
+            "pluralName": "Korean Restaurants",
+            "shortName": "Korean",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/korean_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1526654675",
+        "hasPerk": false
+      },
+      {
+        "id": "4da2b1c97aee548157b1dafe",
+        "name": "Cuccis",
+        "location": {
+          "address": "Dircksenstr. 2",
+          "lat": 52.52144432593135,
+          "lng": 13.411423669503478,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 52.52144432593135,
+              "lng": 13.411423669503478
+            }
+          ],
+          "distance": 463,
+          "postalCode": "10179",
+          "cc": "DE",
+          "city": "Berlin",
+          "state": "Berlin",
+          "country": "Deutschland",
+          "formattedAddress": [
+            "Dircksenstr. 2",
+            "10179 Berlin",
+            "Deutschland"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c5941735",
+            "name": "Sandwich Place",
+            "pluralName": "Sandwich Places",
+            "shortName": "Sandwiches",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1526654675",
+        "hasPerk": false
+      },
+      {
+        "id": "51e9300b498e8f08be34e29b",
+        "name": "Lee Vietnamese Kitchen",
+        "location": {
+          "address": "Große Hamburger Strasse",
+          "lat": 52.52404727017997,
+          "lng": 13.399473497917533,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 52.52404727017997,
+              "lng": 13.399473497917533
+            }
+          ],
+          "distance": 585,
+          "cc": "DE",
+          "city": "Berlin",
+          "state": "Berlin",
+          "country": "Deutschland",
+          "formattedAddress": [
+            "Große Hamburger Strasse",
+            "Berlin",
+            "Deutschland"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d142941735",
+            "name": "Asian Restaurant",
+            "pluralName": "Asian Restaurants",
+            "shortName": "Asian",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1526654675",
+        "hasPerk": false
+      }
+    ]
+  }
+}

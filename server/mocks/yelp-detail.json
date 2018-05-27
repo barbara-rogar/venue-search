@@ -1,0 +1,93 @@
+{
+  "id": "vs3J4zfbThn0_5w2Q5Mfuw",
+  "alias": "schlögls-berlin",
+  "name": "Schlögl's",
+  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2K7hYfL5wSMGfkc2CP20uA/o.jpg",
+  "is_claimed": true,
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/schl%C3%B6gls-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=MGL6GNXBjchbHx2D70MFbg",
+  "phone": "+49302411221",
+  "display_phone": "+49 30 2411221",
+  "review_count": 53,
+  "categories": [
+    {
+      "alias": "german",
+      "title": "German"
+    },
+    {
+      "alias": "beergarden",
+      "title": "Beer Garden"
+    }
+  ],
+  "rating": 4,
+  "location": {
+    "address1": "Karl-Liebknecht-Str. 9",
+    "address2": "",
+    "address3": null,
+    "city": "Berlin",
+    "zip_code": "10178",
+    "country": "DE",
+    "state": "BE",
+    "display_address": [
+      "Karl-Liebknecht-Str. 9",
+      "10178 Berlin",
+      "Germany"
+    ],
+    "cross_streets": ""
+  },
+  "coordinates": {
+    "latitude": 52.5213,
+    "longitude": 13.406281
+  },
+  "photos": [
+    "https://s3-media2.fl.yelpcdn.com/bphoto/2K7hYfL5wSMGfkc2CP20uA/o.jpg",
+    "https://s3-media1.fl.yelpcdn.com/bphoto/QhVM6sO_488j5Lyg-heN9Q/o.jpg",
+    "https://s3-media4.fl.yelpcdn.com/bphoto/0fd5kfa3FYtOLyaq2uKpAQ/o.jpg"
+  ],
+  "price": "€€",
+  "hours": [
+    {
+      "open": [
+        {
+          "is_overnight": false,
+          "start": "1200",
+          "end": "0000",
+          "day": 1
+        },
+        {
+          "is_overnight": false,
+          "start": "1200",
+          "end": "0000",
+          "day": 2
+        },
+        {
+          "is_overnight": false,
+          "start": "1200",
+          "end": "0000",
+          "day": 3
+        },
+        {
+          "is_overnight": false,
+          "start": "1200",
+          "end": "0000",
+          "day": 4
+        },
+        {
+          "is_overnight": false,
+          "start": "1200",
+          "end": "0000",
+          "day": 5
+        },
+        {
+          "is_overnight": false,
+          "start": "1200",
+          "end": "0000",
+          "day": 6
+        }
+      ],
+      "hours_type": "REGULAR",
+      "is_open_now": true
+    }
+  ],
+  "transactions": []
+}

@@ -1,0 +1,830 @@
+{
+  "businesses": [
+    {
+      "id": "vs3J4zfbThn0_5w2Q5Mfuw",
+      "alias": "schlögls-berlin",
+      "name": "Schlögl's",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2K7hYfL5wSMGfkc2CP20uA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/schl%C3%B6gls-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 53,
+      "categories": [
+        {
+          "alias": "german",
+          "title": "German"
+        },
+        {
+          "alias": "beergarden",
+          "title": "Beer Garden"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 52.5213,
+        "longitude": 13.406281
+      },
+      "transactions": [],
+      "price": "€€",
+      "location": {
+        "address1": "Karl-Liebknecht-Str. 9",
+        "address2": "",
+        "address3": null,
+        "city": "Berlin",
+        "zip_code": "10178",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Karl-Liebknecht-Str. 9",
+          "10178 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+49302411221",
+      "display_phone": "+49 30 2411221",
+      "distance": 168.54554951447219
+    },
+    {
+      "id": "WVvjPjxncn_w5Rx2eIC1BQ",
+      "alias": "dolores-berlin",
+      "name": "Dolores",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gpvGuqcasPTvfQTykw2RKg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/dolores-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 495,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 52.523781,
+        "longitude": 13.409277
+      },
+      "transactions": [],
+      "price": "€",
+      "location": {
+        "address1": "Rosa-Luxemburg-Str. 7",
+        "address2": null,
+        "address3": null,
+        "city": "Berlin",
+        "zip_code": "10178",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Rosa-Luxemburg-Str. 7",
+          "10178 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+493028099597",
+      "display_phone": "+49 30 28099597",
+      "distance": 510.3868368228473
+    },
+    {
+      "id": "oMrnXJUNqXDbuCjPV5iu2A",
+      "alias": "gasthaus-julchen-hoppe-berlin",
+      "name": "Gasthaus Julchen Hoppe",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2at8_IgWla0ZMpO4vjl_uQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/gasthaus-julchen-hoppe-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 44,
+      "categories": [
+        {
+          "alias": "german",
+          "title": "German"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 52.5171598405253,
+        "longitude": 13.4046768315238
+      },
+      "transactions": [],
+      "price": "€€",
+      "location": {
+        "address1": "Rathausstr. 25",
+        "address2": "",
+        "address3": "",
+        "city": "Berlin",
+        "zip_code": "10178",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Rathausstr. 25",
+          "10178 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+493097005787",
+      "display_phone": "+49 30 97005787",
+      "distance": 316.56707069597974
+    },
+    {
+      "id": "azpYBe_BA5-SZWMvwnnefQ",
+      "alias": "verona-berlin",
+      "name": "Verona",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9nml_StTMqVnZb9RpxMzfA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/verona-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 8,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 52.51285,
+        "longitude": 13.40834
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Fischerinsel 5",
+        "address2": "",
+        "address3": "",
+        "city": "Berlin",
+        "zip_code": "10179",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Fischerinsel 5",
+          "10179 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+493020679871",
+      "display_phone": "+49 30 20679871",
+      "distance": 828.4710716091885
+    },
+    {
+      "id": "o41J0_TfKnO5_PsmYJ0Wag",
+      "alias": "curry-61-berlin",
+      "name": "Curry 61",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RK4nZikHASawVx2hahMYbw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/curry-61-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 101,
+      "categories": [
+        {
+          "alias": "foodstands",
+          "title": "Food Stands"
+        },
+        {
+          "alias": "currysausage",
+          "title": "Curry Sausage"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 52.523719,
+        "longitude": 13.400681
+      },
+      "transactions": [],
+      "price": "€",
+      "location": {
+        "address1": "Oranienburger Str. 6",
+        "address2": "",
+        "address3": "",
+        "city": "Berlin",
+        "zip_code": "10178",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Oranienburger Str. 6",
+          "10178 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+493040054033",
+      "display_phone": "+49 30 40054033",
+      "distance": 506.3576641041599
+    },
+    {
+      "id": "WYb622W8qxppGssqabpQuw",
+      "alias": "the-pub-berlin-2",
+      "name": "The Pub",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/t1QnCKXnIRh3DUKsXlcl-A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-pub-berlin-2?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 72,
+      "categories": [
+        {
+          "alias": "pubs",
+          "title": "Pubs"
+        },
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 52.5231540344057,
+        "longitude": 13.4072685465576
+      },
+      "transactions": [],
+      "price": "€€",
+      "location": {
+        "address1": "Rochstr. 14",
+        "address2": "",
+        "address3": "",
+        "city": "Berlin",
+        "zip_code": "10178",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Rochstr. 14",
+          "10178 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+493025762201",
+      "display_phone": "+49 30 25762201",
+      "distance": 382.82728943752693
+    },
+    {
+      "id": "hSZzJ3TZ9EFqLkhWfuTDwQ",
+      "alias": "trattoria-peretti-berlin",
+      "name": "Trattoria Peretti",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OtJCXHL8_l6VzlfcGNkf2A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/trattoria-peretti-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 33,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 52.5199,
+        "longitude": 13.40394
+      },
+      "transactions": [],
+      "price": "€€",
+      "location": {
+        "address1": "Karl-Liebknecht-Str. 5",
+        "address2": null,
+        "address3": null,
+        "city": "Berlin",
+        "zip_code": "10178",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Karl-Liebknecht-Str. 5",
+          "10178 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+493027908580",
+      "display_phone": "+49 30 27908580",
+      "distance": 69.10214619342537
+    },
+    {
+      "id": "or7U1m3skSgl1zRPFXI3gg",
+      "alias": "bibi-mix-berlin",
+      "name": "Bibi Mix",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CCjslVykCwZQSyQZ0KjCZw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bibi-mix-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 33,
+      "categories": [
+        {
+          "alias": "korean",
+          "title": "Korean"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 52.523744,
+        "longitude": 13.409233
+      },
+      "transactions": [],
+      "price": "€",
+      "location": {
+        "address1": "Rosa-Luxemburg-Str. 5 - 7",
+        "address2": "",
+        "address3": "",
+        "city": "Berlin",
+        "zip_code": "10178",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Rosa-Luxemburg-Str. 5 - 7",
+          "10178 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+493022453966",
+      "display_phone": "+49 30 22453966",
+      "distance": 505.3100617739031
+    },
+    {
+      "id": "rU3VNWuoTxacgWrHmJExlA",
+      "alias": "humboldt-terrassen-berlin",
+      "name": "Humboldt Terrassen",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/e28WTzjMmQsbgRJpkMbo_A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/humboldt-terrassen-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 17,
+      "categories": [
+        {
+          "alias": "german",
+          "title": "German"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 52.5178,
+        "longitude": 13.4006
+      },
+      "transactions": [],
+      "price": "€€",
+      "location": {
+        "address1": "Humboldt Box",
+        "address2": "Schlossplatz 5",
+        "address3": null,
+        "city": "Berlin",
+        "zip_code": "10178",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Humboldt Box",
+          "Schlossplatz 5",
+          "10178 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+493020625076",
+      "display_phone": "+49 30 20625076",
+      "distance": 385.32591043039906
+    },
+    {
+      "id": "HFajim9qjlb3vSqnpR96FQ",
+      "alias": "rotisserie-weingrün-berlin",
+      "name": "Rotisserie Weingrün",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OSoxjXH6xyGz4F0pYRtblw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/rotisserie-weingr%C3%BCn-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 87,
+      "categories": [
+        {
+          "alias": "bbq",
+          "title": "Barbeque"
+        },
+        {
+          "alias": "german",
+          "title": "German"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 52.5126768,
+        "longitude": 13.4034261
+      },
+      "transactions": [],
+      "price": "€€€",
+      "location": {
+        "address1": "Gertraudenstr. 10 - 12",
+        "address2": null,
+        "address3": null,
+        "city": "Berlin",
+        "zip_code": "10178",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Gertraudenstr. 10 - 12",
+          "10178 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+493020621900",
+      "display_phone": "+49 30 20621900",
+      "distance": 821.2365827372497
+    },
+    {
+      "id": "2XgV2EGq69_eF90JGVzpFg",
+      "alias": "ungarische-weine-und-spezialitäten-berlin-2",
+      "name": "Ungarische Weine & Spezialitäten",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tRR9OpEZZ6ycFnhjzHQ3AA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ungarische-weine-und-spezialit%C3%A4ten-berlin-2?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 6,
+      "categories": [
+        {
+          "alias": "beer_and_wine",
+          "title": "Beer, Wine & Spirits"
+        },
+        {
+          "alias": "hungarian",
+          "title": "Hungarian"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 52.5223361563771,
+        "longitude": 13.4074603964675
+      },
+      "transactions": [],
+      "price": "€",
+      "location": {
+        "address1": "Karl-Marx-Allee 112",
+        "address2": "",
+        "address3": "",
+        "city": "Berlin",
+        "zip_code": "10243",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Karl-Marx-Allee 112",
+          "10243 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+493024728709",
+      "display_phone": "+49 30 24728709",
+      "distance": 308.5301112269803
+    },
+    {
+      "id": "6QpwBQNHGAG4Sx-UX_tSbA",
+      "alias": "monsieur-vuong-berlin",
+      "name": "Monsieur Vuong",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ijb1RL0F1ed4zYobu5Q_DA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/monsieur-vuong-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 597,
+      "categories": [
+        {
+          "alias": "vietnamese",
+          "title": "Vietnamese"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 52.5267279378709,
+        "longitude": 13.4077914974338
+      },
+      "transactions": [],
+      "price": "€€",
+      "location": {
+        "address1": "Alte Schönhauser Str. 46",
+        "address2": null,
+        "address3": null,
+        "city": "Berlin",
+        "zip_code": "10119",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Alte Schönhauser Str. 46",
+          "10119 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+493099296924",
+      "display_phone": "+49 30 99296924",
+      "distance": 771.5820918325799
+    },
+    {
+      "id": "eS3Fnpi6Jaqp9JKeLXwOHg",
+      "alias": "curry-und-pizza-berlin",
+      "name": "Curry & Pizza",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/h_0mRpuWNq6muOA1fMBnQQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/curry-und-pizza-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        },
+        {
+          "alias": "currysausage",
+          "title": "Curry Sausage"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 52.5223289923252,
+        "longitude": 13.4083585023959
+      },
+      "transactions": [],
+      "price": "€",
+      "location": {
+        "address1": "Rochstr. 14 E",
+        "address2": null,
+        "address3": null,
+        "city": "Berlin",
+        "zip_code": "10178",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Rochstr. 14 E",
+          "10178 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 344.5293521623953
+    },
+    {
+      "id": "ChcEr-1zKbwO7Ev4k8Y5dQ",
+      "alias": "kaffeemitte-berlin-2",
+      "name": "Kaffeemitte",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DVoKWmtdf-Umfzt3ZdgW1A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kaffeemitte-berlin-2?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 99,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 52.52523,
+        "longitude": 13.4061299
+      },
+      "transactions": [],
+      "price": "€€",
+      "location": {
+        "address1": "Weinmeisterstr. 9 a",
+        "address2": "",
+        "address3": "",
+        "city": "Berlin",
+        "zip_code": "10178",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Weinmeisterstr. 9 a",
+          "10178 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+493024083204",
+      "display_phone": "+49 30 24083204",
+      "distance": 584.5117803874329
+    },
+    {
+      "id": "8ohQjHpgx6ddM-oFElBl9g",
+      "alias": "madami-moms-vietnamese-kitchen-berlin-2",
+      "name": "Madami - Mom's vietnamese kitchen",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/P9Z4kQlGUNDP2TlftUHabQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/madami-moms-vietnamese-kitchen-berlin-2?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 113,
+      "categories": [
+        {
+          "alias": "vietnamese",
+          "title": "Vietnamese"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 52.5234297,
+        "longitude": 13.4089877
+      },
+      "transactions": [],
+      "price": "€€",
+      "location": {
+        "address1": "Rosa-Luxemburg-Str. 3",
+        "address2": "",
+        "address3": "",
+        "city": "Berlin",
+        "zip_code": "10178",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Rosa-Luxemburg-Str. 3",
+          "10178 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+493065779268",
+      "display_phone": "+49 30 65779268",
+      "distance": 467.15130984709896
+    },
+    {
+      "id": "53f8I0n-FW_GoTk8p2korg",
+      "alias": "piazza-rossa-berlin",
+      "name": "Piazza Rossa",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-kilgQVhnzxQ1MhsGaGdyA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/piazza-rossa-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 77,
+      "categories": [
+        {
+          "alias": "italian",
+          "title": "Italian"
+        },
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 52.5190410664714,
+        "longitude": 13.409331114052
+      },
+      "transactions": [],
+      "price": "€€",
+      "location": {
+        "address1": "Rathausstr. 13",
+        "address2": null,
+        "address3": null,
+        "city": "Berlin",
+        "zip_code": "10178",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Rathausstr. 13",
+          "10178 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+49306122429",
+      "display_phone": "+49 30 6122429",
+      "distance": 311.8438475021211
+    },
+    {
+      "id": "9B1WjonV4X6fqLTmooPvHA",
+      "alias": "new-hot-dog-world-berlin",
+      "name": "New Hot Dog World",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/D2hMhXKCCGP4KvsFJPraqw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/new-hot-dog-world-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 4,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 5,
+      "coordinates": {
+        "latitude": 52.5261,
+        "longitude": 13.4037
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Weinbergsweg 4",
+        "address2": "",
+        "address3": "",
+        "city": "Berlin",
+        "zip_code": "10119",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Weinbergsweg 4",
+          "10119 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 683.9668300416155
+    },
+    {
+      "id": "sZ4s2op3WR5ER6ue8w8zdA",
+      "alias": "chicken-döner-berlin",
+      "name": "Chicken Döner",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bvhqyo_DUU-505hb5NuCqQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/chicken-d%C3%B6ner-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 5,
+      "categories": [
+        {
+          "alias": "kebab",
+          "title": "Kebab"
+        },
+        {
+          "alias": "turkish",
+          "title": "Turkish"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 52.5239,
+        "longitude": 13.4029
+      },
+      "transactions": [],
+      "price": "€€",
+      "location": {
+        "address1": "Rosenthaler Str. 42",
+        "address2": null,
+        "address3": null,
+        "city": "Berlin",
+        "zip_code": "10178",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Rosenthaler Str. 42",
+          "10178 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 456.3415256378974
+    },
+    {
+      "id": "hIYW3MjmF0KwenZ7YU5ZWw",
+      "alias": "manngo-berlin",
+      "name": "Manngo",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-x9pg_xvVWC8Ckrs3zkqoA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/manngo-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 85,
+      "categories": [
+        {
+          "alias": "vietnamese",
+          "title": "Vietnamese"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 52.52732,
+        "longitude": 13.40562
+      },
+      "transactions": [],
+      "price": "€",
+      "location": {
+        "address1": "Mulackstr. 29",
+        "address2": null,
+        "address3": null,
+        "city": "Berlin",
+        "zip_code": "10119",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Mulackstr. 29",
+          "10119 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+493028040558",
+      "display_phone": "+49 30 28040558",
+      "distance": 804.82562761019
+    },
+    {
+      "id": "5Va_mkQU5UpaTp95VZjFcw",
+      "alias": "la-siesta-coffee-und-more-berlin",
+      "name": "La Siesta Coffee und More",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6AJDUyBDByplWiUa-yKb9Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/la-siesta-coffee-und-more-berlin?adjust_creative=MGL6GNXBjchbHx2D70MFbg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MGL6GNXBjchbHx2D70MFbg",
+      "review_count": 19,
+      "categories": [
+        {
+          "alias": "bistros",
+          "title": "Bistros"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 52.522142203942,
+        "longitude": 13.4016601822174
+      },
+      "transactions": [],
+      "price": "€",
+      "location": {
+        "address1": "Garnisonkirchplatz 2",
+        "address2": "",
+        "address3": null,
+        "city": "Berlin",
+        "zip_code": "10178",
+        "country": "DE",
+        "state": "BE",
+        "display_address": [
+          "Garnisonkirchplatz 2",
+          "10178 Berlin",
+          "Germany"
+        ]
+      },
+      "phone": "+493089379966",
+      "display_phone": "+49 30 89379966",
+      "distance": 328.3314204630867
+    }
+  ],
+  "total": 236,
+  "region": {
+    "center": {
+      "longitude": 13.405,
+      "latitude": 52.52
+    }
+  }
+}
